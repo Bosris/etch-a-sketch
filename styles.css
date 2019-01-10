@@ -1,0 +1,19 @@
+#container{
+    /* edit width / height for the size of how many boxes */
+    width: 500px; 
+    height: 500px;
+    border-style: solid;
+    border-width: 3px;
+    margin: 20px auto;
+}
+
+
+
+body{
+    height: auto;
+    width: auto;
+}
+
+.color-div{
+    background-color:black;
+}
